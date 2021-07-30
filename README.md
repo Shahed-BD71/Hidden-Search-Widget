@@ -2,9 +2,8 @@ I take the "50 Vanilla Javascript Project in 50 days" Challenge. In this series 
 
 Let's make the difference, keep the ball rolling....
 
-Link: 
+Link:
 
+#Day-4
 
-# Hidden-Search-Widget
-# Hidden-Search-Widget
 # Hidden-Search-Widget
